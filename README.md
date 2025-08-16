@@ -13,7 +13,7 @@ A full-stack web application for managing user data with CRUD operations, avatar
 *Upload up to 5 avatars per user. Existing avatars can be cropped or replaced individually.*
 
 ### Upload Page
-![upload page avatar](images/uploage-page.png)
+![upload page avatar](images/upload-page.png)
 
 ---
 
